@@ -28,10 +28,4 @@ If user search for any video on home page then user will redirected to this sear
 ![Search Result Page](https://miro.medium.com/max/700/1*zsHeGzShFhwXJiX2UwKJwg.png)
 
 
-# Author
-
-### priyanka phulmante :girl:
->  [Linkedin](https://www.linkedin.com/in/priyanka-phulmante-181633191)
-
->  [GitHub](https://github.com/priyankaphulmante98)
 
